@@ -1,0 +1,2 @@
+Average age = 53
+CNT = 21
